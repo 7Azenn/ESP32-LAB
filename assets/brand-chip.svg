@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340">
+  <!-- Pins: top & bottom -->
+  <g stroke="#1e2430" stroke-width="24" stroke-linecap="round">
+    <line x1="110" y1="14" x2="110" y2="74" />
+    <line x1="170" y1="14" x2="170" y2="74" />
+    <line x1="230" y1="14" x2="230" y2="74" />
+    <line x1="110" y1="266" x2="110" y2="326" />
+    <line x1="170" y1="266" x2="170" y2="326" />
+    <line x1="230" y1="266" x2="230" y2="326" />
+    <!-- Pins: left & right -->
+    <line x1="14" y1="110" x2="74" y2="110" />
+    <line x1="14" y1="170" x2="74" y2="170" />
+    <line x1="14" y1="230" x2="74" y2="230" />
+    <line x1="266" y1="110" x2="326" y2="110" />
+    <line x1="266" y1="170" x2="326" y2="170" />
+    <line x1="266" y1="230" x2="326" y2="230" />
+  </g>
+  <!-- Chip body frame -->
+  <rect x="62" y="62" width="216" height="216" rx="44" fill="none" stroke="#1e2430" stroke-width="24" stroke-linejoin="round" />
+  <!-- Center Wifi Signal -->
+  <g fill="none" stroke="#ea6a12" stroke-width="22" stroke-linecap="round">
+    <!-- Outer Arc -->
+    <path d="M108 160 A74 74 0 0 1 232 160" />
+    <!-- Inner Arc -->
+    <path d="M136 188 A42 42 0 0 1 204 188" />
+    <!-- Center Dot -->
+    <circle cx="170" cy="218" r="10" fill="#ea6a12" stroke="none" />
+  </g>
+</svg>

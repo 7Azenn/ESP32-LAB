@@ -1,0 +1,17 @@
+{
+  "name": "ESP32 LAB — Interactive Electronics & Simulation Lab",
+  "short_name": "ESP32 LAB",
+  "description": "Build Beyond Boundaries. 3D Electronics, Embedded Systems & Robotics Learning Platform for students, makers, electronics enthusiasts and developers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f1e6",
+  "theme_color": "#f8f1e6",
+  "categories": ["education"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
